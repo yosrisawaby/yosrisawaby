@@ -1,8 +1,7 @@
 ## Hi, I'm Yossry Sawaby
 
 Developer based in Korea with experience in embedded systems,
-mobile apps, and local AI tools. I'm preparing for a master's
-degree in AI with a focus on industrial applications.
+mobile apps, and local AI tools.  
 
 **Skills:** Python · ESP32 / embedded C · Flutter/Dart · Node.js · Qt C++ · Ollama / local LLMs
 
