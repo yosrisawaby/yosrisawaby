@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Yossry Sawaby
 
-<!--
-**yosrisawaby/yosrisawaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer based in Korea with experience in embedded systems,
+mobile apps, and local AI tools. I'm preparing for a master's
+degree in AI with a focus on industrial applications.
 
-Here are some ideas to get you started:
+**Skills:** Python · ESP32 / embedded C · Flutter/Dart · Node.js · Qt C++ · Ollama / local LLMs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured projects**
+- WiFi CSI Sensing – detecting human presence from WiFi signals
+- Bus Tracking System – real-time GPS fleet tracking (Cloudflare Workers + Flutter)
+- Offline Voice & Face Controller – on-device AI controlling an ESP32 over Bluetooth
+
+**Interests:** predictive maintenance, smart factories, logistics optimization, edge AI
